@@ -8,11 +8,15 @@ CategoryTools & TechnologiesLanguagesPython (Pandas, NumPy, Scikit-learn, Matplo
 
 📂 Featured Projects
 🏥 Healthcare Appointment No-Show Analysis
-Analyzed 110,000+ patient records to identify key drivers behind missed medical appointments. Engineered features including waiting days, SMS notifications, and age groups. Applied SMOTE to handle class imbalance and built Logistic Regression, Decision Tree, and Random Forest models — achieving 87.5% accuracy. Visualized findings in an interactive Tableau dashboard to support hospital scheduling decisions.
+Analyzed 110,000+ patient records to identify key drivers behind missed medical appointments. 
+Engineered features including waiting days, SMS notifications, and age groups. 
+Applied SMOTE to handle class imbalance and built Logistic Regression, Decision Tree, and Random Forest models — achieving 87.5% accuracy. 
+Visualized findings in an interactive Tableau dashboard to support hospital scheduling decisions.
 🔗 View Repository
 
 🚗 Insurance Purchase Prediction (Random Forest)
-Built a classification pipeline to predict whether a customer will opt for vehicle insurance. Covered data preprocessing, label encoding, model training, and evaluation using accuracy, confusion matrix, and classification reports — achieving 87.5% accuracy with Random Forest.
+Built a classification pipeline to predict whether a customer will opt for vehicle insurance. 
+Covered data preprocessing, label encoding, model training, and evaluation using accuracy, confusion matrix, and classification reports — achieving 87.5% accuracy with Random Forest.
 🔗 View Repository
 
 📊 Insurance Purchase Prediction (Logistic Regression & Decision Tree)
@@ -40,3 +44,5 @@ I am actively open to Data Analyst and Data Scientist opportunities. If you are 
 📧 nagasaidintakurthi@gmail.com
 📞 (216) 539-6822
 https://www.linkedin.com/in/naga-sai-dintakurthi-data-analyst/
+
+"Without data, you're just another person with an opinion." – W. Edwards Deming
